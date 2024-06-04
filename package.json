@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "nextjs-templates",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Free Nextjs Templates",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
