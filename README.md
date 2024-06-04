@@ -1,0 +1,1 @@
+this is a website that shares free nextjs templates, including but not limited to Business/Dashboard/Blog/Boilerplate/Documentation
