@@ -38,7 +38,7 @@ const config: DocsThemeConfig = {
         <meta httpEquiv="Content-Language" content="en" />
         <meta
           name="description"
-          content="this is a website that shares free nextjs templates, including but not limited to Business/Dashboard/Blog/Boilerplate/Documentation"
+          content="This is a website that shares free Nextjs templates, including but not limited to Business/Dashboard/Blog/Documentation.Build your next website faster."
         />
         <link rel="icon" href="/logo.png" type="image/png" />
       </>
@@ -46,6 +46,7 @@ const config: DocsThemeConfig = {
   },
   editLink: { component: null },
   feedback: { content: null },
+  search: { placeholder: 'Search templates'},
   footer: {
     text: 'Nextjs Templates',
   },
