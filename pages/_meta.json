@@ -3,7 +3,7 @@
   "business": "Business",
   "dashboard": "Dashboard",
   "blog": "Blog",
-  "boilerplate": "Boilerplate",
   "documentation": "Documentation",
+  "boilerplate": "Boilerplate",
   "others": "Others"
 }
